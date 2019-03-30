@@ -4,7 +4,9 @@
  <meta charset="utf-8">
 <title>CV</title>
 <style>
-h2{color:orange:}
+h2{color:orange;}
+body{box-shadow:grey;
+     border:dashed brown;}
 </style>
 </head>
 <body>
